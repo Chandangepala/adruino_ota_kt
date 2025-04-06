@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Arduino vendor IDs -->
+    <usb-device vendor-id="9025" /> <!-- Arduino Uno -->
+    <usb-device vendor-id="6790" /> <!-- FTDI chips -->
+    <usb-device vendor-id="4292" /> <!-- CH340 chips -->
+    <usb-device vendor-id="10755" /> <!-- SAM3X (Arduino Due) -->
+</resources>
